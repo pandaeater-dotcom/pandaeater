@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohit Bharadwaj Ramesh</h1>
 <h3 align="center">An enthusiastic first-year Software Engineering student at UWaterloo</h3>
 
-- 🔭 I’m currently working on [Linear Regression using TensorFLow](https://github.com/pandaeater-dotcom/Titanic-Survival-Predication-Linear-Regression-)
-
-- 🌱 I’m currently learning **TensorFlow, React**
-
 - 👨‍💻 All of my projects are available at [https://github.com/pandaeater-dotcom](https://github.com/pandaeater-dotcom)
 
 - 💬 Ask me about **Python, C/C++, JavaScript, Web Development**
